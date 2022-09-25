@@ -1,0 +1,23 @@
+position,name,lastname,alias,country,car,points
+1,Max,Verstappen,VER,NED,Red Bull Racing RBPT,335
+2,Charles,Leclerc,LEC,MON,Ferrari,219
+3,Sergio,Perez,PER,MEX,Red Bull Racing RBPT,210
+4,George,Russell,RUS,GBR,Mercedes,203
+5,Carlos,Sainz,SAI,ESP,Ferrari,187
+6,Lewis,Hamilton,HAM,GBR,Mercedes,168
+7,Lando,Norris,NOR,GBR,McLaren Mercedes,88
+8,Esteban,Ocon,OCO,FRA,Alpine Renault,66
+9,Fernando,Alonso,ALO,ESP,Alpine Renault,59
+10,Valtteri,Bottas,BOT,FIN,Alfa Romeo Ferrari,46
+11,Pierre,Gasly,GAS,FRA,AlphaTauri RBPT,22
+12,Kevin,Magnussen,MAG,DEN,Haas Ferrari,22
+13,Sebastian,Vettel,VET,GER,Aston Martin Aramco Mercedes,20
+14,Daniel,Ricciardo,RIC,AUS,McLaren Mercedes,19
+15,Mick,Schumacher,MSC,GER,Haas Ferrari,12
+16,Yuki,Tsunoda,TSU,JPN,AlphaTauri RBPT,11
+17,Zhou,Guanyu,ZHO,CHN,Alfa Romeo Ferrari,6
+18,Lance,Stroll,STR,CAN,Aston Martin Aramco Mercedes,5
+19,Alexander,Albon,ALB,THA,Williams Mercedes,4
+20,Nyck,De Vries,DEV,NED,Williams Mercedes,2
+21,Nicholas,Latifi,LAT,CAN,Williams Mercedes,0
+22,Nico,Hulkenberg,HUL,GER,Aston Martin Aramco Mercedes,0
